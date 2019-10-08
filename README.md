@@ -26,10 +26,15 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Explain benefit(s) using `client-side routing`?
 > Answer:
+  Instead of going to backend everytime when user interacts and refresh the whole page, clienside routing can only load the info on the state that changed.
 - [ ] What does AJAX stand for?
 > Answer:
+  Asynchronous Javascript And XML.
+  It is web technique that creates asynchronously call to send and retrieve data from the server.
 - [ ] What are `controlled components` in React?
 > Answer:
+  It is an input form and its value are controlled by React.
+
 
 
 ## Project Set Up
